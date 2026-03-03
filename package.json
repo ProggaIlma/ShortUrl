@@ -1,7 +1,7 @@
 {
   "name": "short-url",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js URL shortener with user login, redirect tracking, and analytics.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
