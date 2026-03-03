@@ -1,6 +1,6 @@
 # ShortUrl
 
-ShortUrl is a Node.js + Express URL shortener with basic user authentication and click analytics.
+ShortUrl is an Express + MongoDB URL shortener that supports user signup/login, authenticated link creation, redirect handling, and visit analytics for each short URL.
 
 ## What it does
 - Allows users to sign up and log in.
