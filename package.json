@@ -1,7 +1,7 @@
 {
   "name": "short-url",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express + MongoDB URL shortener with user signup/login, protected short-link creation, redirect tracking, and per-link analytics.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
